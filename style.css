@@ -119,3 +119,9 @@ footer {
         font-size: 36px;
     }
 }
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
