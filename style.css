@@ -79,7 +79,13 @@ nav ul li a {
   padding: 62px 10%;
   flex-wrap: wrap;
 }
-
+.features {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  padding: 62px 10%;
+  flex-wrap: wrap;
+}
 .card {
   background: white;
   padding: 30px;
