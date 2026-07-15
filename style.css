@@ -48,7 +48,10 @@ nav ul li a {
   text-align: center;
   padding: 100px 20px;
 }
-
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+}
 .hero h1 {
   font-size: 48px;
   margin-bottom: 15px;
